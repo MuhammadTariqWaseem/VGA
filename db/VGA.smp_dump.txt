@@ -1,0 +1,11 @@
+
+State Machine - |VGA|Q
+Name Q.VS Q.VFP Q.HS Q.HFP Q.HA Q.HBP Q.VBP Q.Idle 
+Q.Idle 0 0 0 0 0 0 0 0 
+Q.VBP 0 0 0 0 0 0 1 1 
+Q.HBP 0 0 0 0 0 1 0 1 
+Q.HA 0 0 0 0 1 0 0 1 
+Q.HFP 0 0 0 1 0 0 0 1 
+Q.HS 0 0 1 0 0 0 0 1 
+Q.VFP 0 1 0 0 0 0 0 1 
+Q.VS 1 0 0 0 0 0 0 1 

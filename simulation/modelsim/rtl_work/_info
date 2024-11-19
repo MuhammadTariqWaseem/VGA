@@ -1,0 +1,120 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/PC/Desktop/IC Design Course/DLD/XGA/simulation/modelsim
+vadder
+Z1 !s110 1729621738
+!i10b 1
+!s100 BIaI]dz9YBQL>P_;gL`1Z2
+INFLE2=X<gAmBm]Sh1]WZb2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1729621519
+Z4 8C:/Users/PC/Desktop/IC Design Course/DLD/XGA/programc.v
+Z5 FC:/Users/PC/Desktop/IC Design Course/DLD/XGA/programc.v
+L0 14
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1729621738.000000
+Z8 !s107 C:/Users/PC/Desktop/IC Design Course/DLD/XGA/programc.v|
+Z9 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/PC/Desktop/IC Design Course/DLD/XGA|C:/Users/PC/Desktop/IC Design Course/DLD/XGA/programc.v|
+!i113 1
+Z10 o-vlog01compat -work work
+Z11 !s92 -vlog01compat -work work {+incdir+C:/Users/PC/Desktop/IC Design Course/DLD/XGA}
+Z12 tCvgOpt 0
+vinstruction_fetch
+R1
+!i10b 1
+!s100 J=F7G9Nc6J7z6:5nM>ffB1
+IXN0nXdjTnbbfW<0JU`n7D0
+R2
+R0
+R3
+R4
+R5
+L0 51
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vinstructmem
+R1
+!i10b 1
+!s100 8LRAl;]z6@hYonOZWif8G3
+IGk@5G]Q9lN=m=ihgiJae;0
+R2
+R0
+R3
+R4
+R5
+L0 21
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vprogramc
+R1
+!i10b 1
+!s100 TSDRgVl<DR=c[fnVLHnX10
+IozzFI?4Qik@ha`USz:B@33
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vprogramc_tb
+R1
+!i10b 1
+!s100 aoooNjDj`ba@kO@2g5PC71
+I7VkYkHzj4G<[a3Oie?^KR1
+R2
+R0
+R3
+R4
+R5
+L0 64
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12

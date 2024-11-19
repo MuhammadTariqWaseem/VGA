@@ -1,0 +1,6 @@
+Warning (10268): Verilog HDL information at VGA.v(77): always construct contains both blocking and non-blocking assignments File: C:/Users/PC/Desktop/IC Design Course/DLD/XGA/VGA.v Line: 77
+Info (10281): Verilog HDL Declaration information at VGA.v(4): object "H_Sync" differs only in case from object "H_SYNC" in the same scope File: C:/Users/PC/Desktop/IC Design Course/DLD/XGA/VGA.v Line: 4
+Info (10281): Verilog HDL Declaration information at VGA.v(4): object "V_Sync" differs only in case from object "V_SYNC" in the same scope File: C:/Users/PC/Desktop/IC Design Course/DLD/XGA/VGA.v Line: 4
+Info (10281): Verilog HDL Declaration information at VGA.v(14): object "A" differs only in case from object "a" in the same scope File: C:/Users/PC/Desktop/IC Design Course/DLD/XGA/VGA.v Line: 14
+Info (10281): Verilog HDL Declaration information at VGA.v(11): object "D" differs only in case from object "d" in the same scope File: C:/Users/PC/Desktop/IC Design Course/DLD/XGA/VGA.v Line: 11
+Info (10281): Verilog HDL Declaration information at VGA.v(18): object "Data" differs only in case from object "DATA" in the same scope File: C:/Users/PC/Desktop/IC Design Course/DLD/XGA/VGA.v Line: 18
